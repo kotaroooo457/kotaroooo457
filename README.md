@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=kotarooo457)
 ![](https://qiita-badge.apiapi.app/s/s_taro/posts.svg)
-![](https://qiita-badge.apiapi.app/s/s_taro/contributions.svg)
+![qiita](https://qiita-badge.apiapi.app/s/s_taro/contributions.svg)
 ![](https://img.shields.io/twitter/follow/programming0457?style=social)
 
 ![Metrics](/github-metrics.svg)
