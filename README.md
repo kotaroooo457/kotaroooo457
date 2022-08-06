@@ -2,8 +2,7 @@
 ![](https://qiita-badge.apiapi.app/s/s_taro/posts.svg)
 ![qiita](https://qiita-badge.apiapi.app/s/s_taro/contributions.svg)
 ![](https://img.shields.io/twitter/follow/programming0457?style=social)
-
-![Metrics](/github-metrics.svg)
+[![wakatime](https://wakatime.com/badge/user/527e2cfc-78b4-48fd-aca5-c2a492ba54b1/project/db0ee72c-40f9-44b7-96fc-def690bd1891.svg)](https://wakatime.com/badge/user/527e2cfc-78b4-48fd-aca5-c2a492ba54b1/project/db0ee72c-40f9-44b7-96fc-def690bd1891)
 
 ![](https://github-profile-trophy.vercel.app/?username=kotaroooo457)
 
@@ -17,8 +16,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaroooo457&layout=compact" width="40%" />
 </a>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotaroooo457&theme=vue)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@527e2cfc-78b4-48fd-aca5-c2a492ba54b1/be59a191-6a7f-4f87-a2b1-15758f72d10f.png" width=" 40%"/></a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotaroooo457&theme=vue"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotaroooo457&theme=vue" width="50%" /></a>
 
 ![](https://metrics.lecoq.io/kotaroooo457)
 
