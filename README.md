@@ -19,6 +19,6 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@527e2cfc-78b4-48fd-aca5-c2a492ba54b1/be59a191-6a7f-4f87-a2b1-15758f72d10f.png" width=" 40%"/></a>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotaroooo457&theme=vue"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotaroooo457&theme=vue" width="50%" /></a>
 
-![](https://metrics.lecoq.io/kotaroooo457)
+<a href="https://metrics.lecoq.io/kotaroooo457"><img src="https://metrics.lecoq.io/kotaroooo457" /></a>
 
 ![](https://github-chart.vercel.app/api?user=kotaroooo457)
