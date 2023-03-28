@@ -18,5 +18,8 @@
 </a>
 
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotaroooo457&theme=vue"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotaroooo457&theme=vue" width="50%" /></a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kotaroooo457&theme=vue"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kotaroooo457&theme=vue" width="30%" /></a>
 
-![](https://github-chart.vercel.app/api?user=kotaroooo457)
+
+
+<img src="https://github-chart.vercel.app/api?user=kotaroooo457" width="70%" />
