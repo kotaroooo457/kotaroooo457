@@ -2,7 +2,6 @@
 ![](https://qiita-badge.apiapi.app/s/s_taro/posts.svg)
 ![qiita](https://qiita-badge.apiapi.app/s/s_taro/contributions.svg)
 ![](https://img.shields.io/twitter/follow/programming0457?style=social)
-[![wakatime](https://wakatime.com/badge/user/527e2cfc-78b4-48fd-aca5-c2a492ba54b1/project/db0ee72c-40f9-44b7-96fc-def690bd1891.svg)](https://wakatime.com/badge/user/527e2cfc-78b4-48fd-aca5-c2a492ba54b1/project/db0ee72c-40f9-44b7-96fc-def690bd1891)
 
 ![](https://github-profile-trophy.vercel.app/?username=kotaroooo457)
 
